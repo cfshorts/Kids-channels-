@@ -279,36 +279,3 @@ https://jmp2.uk/sam-CA800001ZX.m3u8
 #EXTINF:-1 channel-id="samsung-US800003JM" tvg-id="US800003JM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US800003JM_20240709T002122SQUARE.png" group-title="" tvg-chno="3724",BBC Kids 
 https://jmp2.uk/sam-US800003JM.m3u8
 
-#EXTINF:-1tvg-id="Kids" tvg-name="Durunto" group-title="kids",durunto
-https://etr.bongoflix.top/live/9ab9aa29-3d3b-4527-ab47-d9b69f0ea80c.m3u8
-
-#EXTINF:-1tvg-id="Kids" tvg-name="Rongeen TV" group-title="kids",rongeen
-https://etr.bongoflix.top/live/d7541d99-14a5-4775-b90f-8681070ba80a.m3u8
-
-#EXTINF:-1tvg-id="Kids" tvg-name="Nicklodeon"group-title="kids",nicklodeon
-https://etr.bongoflix.top/live/d8c19a31-9752-40cd-a392-fb95928a66b8.m3u8
-
-#EXTINF:-1tvg-id="Kids" tvg-name="PBS Kids"group-title="kids",pbs kids
-https://etr.bongoflix.top/live/d6d46db7-a14a-45ad-b576-b40c80406134.m3u8
-
-#EXTINF:-1tvg-id="Kids" tvg-name="Disney"group-title="kids",disney
-https://etr.bongoflix.top/live/1d7ad29d-ee4d-4590-a446-7db6d6aea230.m3u8
-
-#EXTINF:-1tvg-id="Kids" tvg-name="Disney jr"group-title="kids",disney jr
-https://etr.bongoflix.top/live/a9791899-66f2-4b94-9521-c333498f7ab9.m3u8
-
-
-#EXTINF:-1tvg-id="Kids" tvg-name="Nicklodeon"group-title="kids",nicklodeon
-https://etr.bongoflix.top/live/d8c19a31-9752-40cd-a392-fb95928a66b8.m3u8
-
-#EXTINF:-1tvg-id="Kids" tvg-name="PBS Kids"group-title="kids",pbs kids
-https://etr.bongoflix.top/live/d6d46db7-a14a-45ad-b576-b40c80406134.m3u8
-
-#EXTINF:-1tvg-id="Kids" tvg-name="Disney"group-title="kids",disney
-https://etr.bongoflix.top/live/1d7ad29d-ee4d-4590-a446-7db6d6aea230.m3u8
-
-#EXTINF:-1tvg-id="Kids" tvg-name="Disney jr"group-title="kids",disney jr
-https://etr.bongoflix.top/live/a9791899-66f2-4b94-9521-c333498f7ab9.m3u8
-
-
-
